@@ -44,6 +44,7 @@ entry_cooldown = 300
 last_saved_plate = None
 last_entry_time = 0
 
+
 print("[SYSTEM] Ready. Press 'q' to exit.")
 
 while True:
